@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fahmy</h1>
-<h3 align="center">A passionate data analyst who loves working with data and transforming it to drive business decisions by asking the right questions in order to answer them in the most proper ways . Always seeking to utilize my practical knowledge in data analysis and gaining more experience.</h3>
+<h3 align="center">A passionate data analyst / Scientist who loves working with data and transforming it to drive business decisions by asking the right questions in order to answer them in the most proper ways . Always seeking to utilize my practical knowledge in data analysis and gaining more experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadelsayedfahmy&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadelsayedfahmy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadelsayedfahmy" alt="mohammadelsayedfahmy" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://twitter.com/amszoll" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/amszoll?logo=twitter&style=for-the-badge" alt="https://twitter.com/amszoll" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/mohammadelsayedfahmy](https://www.kaggle.com/mohammadelsayedfahmy)
 
@@ -11,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/amszoll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/amszoll" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohammadelsayedfahmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammadelsayedfahmy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mohammadfahmyp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohammadfahmyp/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
