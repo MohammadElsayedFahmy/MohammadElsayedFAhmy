@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fahmy</h1>
-<h3 align="center">A passionate data analyst / Scientist who loves working with data and transforming it to drive business decisions by asking the right questions in order to answer them in the most proper ways . Always seeking to utilize my practical knowledge in data analysis and gaining more experience.</h3>
+<h3 align="center">Hi, I'm Mohammad Fahmy – a Senior Data & BI Analyst from Cairo, Egypt. I specialize in automating ETL processes, building dynamic dashboards, and turning data into actionable insights. Passionate about using tools like Python, SQL, and Power BI to drive business decisions. Let's connect and build data-driven solutions together!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadelsayedfahmy&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadelsayedfahmy" /> </p>
 
